@@ -20,3 +20,7 @@ To run the project locally, please use the following commands in your terminal (
 * pip install -r requirements.txt
 * python app.py
 * Open browser and visit http://127.0.0.1:5000/ (or designated link provided)
+
+# Henry Patch
+
+* Personally, I have very little CI/CD experience outside of one or two small projects while I've taken university courses, it is definetly something I'm not fully confident in.
